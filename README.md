@@ -33,8 +33,3 @@ I've spent most of my time as a developer with the following stacks:
 In general terms, I have 9 years of experience with the Javascript/Typescript ecosystem and 7 with the React and Node.js.
 
 <br>
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
-</div>
-<br>
