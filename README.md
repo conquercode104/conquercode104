@@ -10,11 +10,9 @@
 <br>
 <ul>I prioritize understanding business requirements and work towards providing effective solutions technically. I value the success of the team and maintain good relationships with all members including project managers and designers.</ul>
 <hr>
-<h3>EXPERIENCE</h3>
+<h3>TECHNOLOGIES</h3>
 
-I've experience working in a private company and as a freelancer.
-
-I've spent most of my time as a developer with the following stacks:
+I've spent most of my time as a developer with the following tech stacks:
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,regex,wasm)](https://skillicons.dev)
 #### Frontend Frameworks
@@ -31,5 +29,4 @@ I've spent most of my time as a developer with the following stacks:
 [![My Skills](https://skillicons.dev/icons?i=ps,figma,vscode,autocad)](https://skillicons.dev)
 
 In general terms, I have 9 years of experience with the Javascript/Typescript ecosystem and 7 with the React and Node.js.
-
 <br>
