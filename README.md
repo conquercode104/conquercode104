@@ -4,11 +4,11 @@
 
 <h3>ABOUT ME</h3>
 
-As a product-focused software engineer, I have successfully delivered multiple products for various industries. I always strive to maintain high-quality standards while utilizing the latest technologies and am passionate about the product prospects.
+<ul>As a product-focused software engineer, I have successfully delivered multiple products for various industries. I always strive to maintain high-quality standards while utilizing the latest technologies and am passionate about the product prospects.</ul>
 <br>
-In order to make informed decisions to technical problems, I continuously learn, adopt and adapt new solutions boldly. By taking ownership of the product, I actively embrace technical issues and resolve them following best practices.
+<ul>In order to make informed decisions to technical problems, I continuously learn, adopt and adapt new solutions boldly. By taking ownership of the product, I actively embrace technical issues and resolve them following best practices.</ul>
 <br>
-I prioritize understanding business requirements and work towards providing effective solutions technically. I value the success of the team and maintain good relationships with all members including project managers and designers.
+<ul></ul>I prioritize understanding business requirements and work towards providing effective solutions technically. I value the success of the team and maintain good relationships with all members including project managers and designers.</ul>
 <hr>
 <h3>EXPERIENCE</h3>
 
