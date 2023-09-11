@@ -13,6 +13,7 @@
 <h3>TECHNOLOGIES</h3>
 
 <ul>I've spent most of my time as a developer with the following tech stacks:</ul>
+
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,regex,wasm)](https://skillicons.dev)
 #### Frontend Frameworks
