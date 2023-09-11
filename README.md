@@ -4,8 +4,12 @@
 
 <h3>ABOUT ME</h3>
 
-I'm a versatile developer, with experience in building web platforms.<br>I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can. I usually answer questions or solve some issues on GitHub, Stack Overflow or on tech communities because that not only helps others, but also helps me.
-
+As a product-focused software engineer, I have successfully delivered multiple products for various industries. I always strive to maintain high-quality standards while utilizing the latest technologies and am passionate about the product prospects.
+<br>
+In order to make informed decisions to technical problems, I continuously learn, adopt and adapt new solutions boldly. By taking ownership of the product, I actively embrace technical issues and resolve them following best practices.
+<br>
+I prioritize understanding business requirements and work towards providing effective solutions technically. I value the success of the team and maintain good relationships with all members including project managers and designers.
+<hr>
 <h3>EXPERIENCE</h3>
 
 I've experience working in a private company and as a freelancer.
