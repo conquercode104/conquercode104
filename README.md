@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/conquercode104/conquercode104/blob/main/Jaq.jpeg" width="100%" alt="Banner">
+  <img src="https://github.com/conquercode104/conquercode104/blob/main/Screen%20Shot%202023-09-10%20at%2011.28.50%20PM.png" width="100%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
